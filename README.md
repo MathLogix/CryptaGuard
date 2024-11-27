@@ -7,5 +7,6 @@ CryptaGuard is a state-of-the-art encryption software designed to securely encry
 
 Now your file or folder is completely locked and can no longer be run or opened by any platform.
 To decrypt a file or a directory, click on the Unlock icon and go through the above process exactly.
+Place the "images" folder alongside the program's executable file and then launch the application.
 
 Good luck!
